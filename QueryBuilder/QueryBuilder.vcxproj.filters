@@ -21,5 +21,8 @@
     <ClCompile Include="QueryLanguage.ixx">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="demo2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
